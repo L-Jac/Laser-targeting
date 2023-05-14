@@ -1,0 +1,16 @@
+1.
+部署过程中配置好java后运行出现报错：
+firefly@firefly:/usr/local$ javac
+-bash: /usr/local/jdk1.8.0_371/bin/javac: cannot execute binary file: Exec format error
+可能的解决方案：
+https://blog.csdn.net/owen7500/article/details/52397353
+https://blog.csdn.net/m0_46360532/article/details/119810475
+    1.检查Linux系统：
+    firefly@firefly:/usr/local$ uname -a
+    Linux firefly 5.10.110 #7 SMP Sat Jan 14 09:39:11 CST 2023 aarch64 aarch64 aarch64 GNU/Linux
+    2.确认问题：
+    ARM LINUX 只是 LINUX 的一个分支，专门针对 ARM 架构设计的底层软件和底层驱动，看来是底层的指令集不同，直接又分出了一个安装版本
+    3.解决问题：
+    删除旧Java重装
+
+2.
