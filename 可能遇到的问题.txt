@@ -14,3 +14,15 @@ https://blog.csdn.net/m0_46360532/article/details/119810475
     删除旧Java重装
 
 2.
+MySQL版本难以确定：
+firefly@firefly:/usr/local$ uname -a
+Linux firefly 5.10.110 #7 SMP Sat Jan 14 09:39:11 CST 2023 aarch64 aarch64 aarch64 GNU/Linux
+firefly@firefly:/usr/local$ lsb_release -a
+No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 20.04.5 LTS
+Release:        20.04
+Codename:       focal
+解决方案：
+使用 sudo apt install mysql-server 命令会自动安装适用于您的操作系统和硬件架构的 MySQL Server 版本。
+apt 是 Ubuntu 的包管理器，它会自动处理依赖关系并从 Ubuntu 的官方软件仓库中下载和安装适当的软件包。
