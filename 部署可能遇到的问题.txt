@@ -26,3 +26,8 @@ Codename:       focal
 解决方案：
 使用 sudo apt install mysql-server 命令会自动安装适用于您的操作系统和硬件架构的 MySQL Server 版本。
 apt 是 Ubuntu 的包管理器，它会自动处理依赖关系并从 Ubuntu 的官方软件仓库中下载和安装适当的软件包。
+3
+Redis报错：
+redis-server.service: Can't open PID file /var/run/redis/redis-server.
+解决方案：
+https://blog.csdn.net/zhangpeterx/article/details/104093275
