@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95ef555b-3d9f-4e0c-b52d-28df54617b53" name="变更" comment="更新部署可能会遇到的问题">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk8/jdk-8u371-linux-aarch64.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/Gun_Target_Lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/Image_Processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/Message_Send.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/test/msg.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/test/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/test/proto_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/test/protobuf/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/test/protobuf/msg_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_laser/test/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tomcat/apache-tomcat-8.5.88.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laser.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/laser.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooter_score.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/shooter_score.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooting-server.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/shooting-server.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shooting-ui.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/shooting-ui.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PjZEfjYDew8rkNDPeQFcitD2Yl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/项目/Laser-targeting&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\项目\Laser-targeting\Original_Files" />
+      <recent name="D:\项目\Laser-targeting\new_laser\test" />
+      <recent name="D:\项目\Laser-targeting\tomcat" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="95ef555b-3d9f-4e0c-b52d-28df54617b53" name="变更" comment="" />
+      <created>1683972344102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683972344102</updated>
+    </task>
+    <task id="LOCAL-00001" summary="各部分压缩包">
+      <created>1683973153508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683973153508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="项目部署参考">
+      <created>1684052093067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684052093067</updated>
+    </task>
+    <task id="LOCAL-00003" summary="可能遇到的问题">
+      <created>1684055209846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684055209846</updated>
+    </task>
+    <task id="LOCAL-00004" summary="可能遇到的问题">
+      <created>1684065562860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684065562860</updated>
+    </task>
+    <task id="LOCAL-00005" summary="部署可能遇到的问题">
+      <created>1684065635614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684065635614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="自述文件更新">
+      <created>1684071626258</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684071626258</updated>
+    </task>
+    <task id="LOCAL-00007" summary="更新部署可能会遇到的问题">
+      <created>1684123034246</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684123034246</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="各部分压缩包" />
+    <MESSAGE value="项目部署参考" />
+    <MESSAGE value="可能遇到的问题" />
+    <MESSAGE value="部署可能遇到的问题" />
+    <MESSAGE value="自述文件更新" />
+    <MESSAGE value="更新部署可能会遇到的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新部署可能会遇到的问题" />
+  </component>
+</project>

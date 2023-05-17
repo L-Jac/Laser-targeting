@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+/// A point
+message Point {
+  int32 x = 1;
+  int32 y = 2;
+}
+
+/// a lot of points
+message Points {
+  int32 id = 1;
+  repeated Point points = 2;
+}

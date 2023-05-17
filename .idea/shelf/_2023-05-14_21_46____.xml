@@ -1,0 +1,19 @@
+<changelist name="在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]" date="1684072002307" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行更新之前于 2023-05-14 21:46 取消提交了变更 [变更]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="jdk8/apache-tomcat-8.5.88.tar.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/apache-tomcat-8.5.88.tar.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="jdk8/jdk-8u371-linux-aarch64.tar.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/jdk-8u371-linux-aarch64.tar.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="VNC-Server/VNC-Server-7.1.0-Linux-x64.deb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/VNC-Server-7.1.0-Linux-x64.deb" />
+  </binary>
+</changelist>
