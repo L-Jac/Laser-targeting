@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95ef555b-3d9f-4e0c-b52d-28df54617b53" name="变更" comment="更新部署可能会遇到的问题">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk8/jdk-8u371-linux-aarch64.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/Gun_Target_Lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/Image_Processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/Message_Send.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/test/msg.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/test/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/test/proto_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/test/protobuf/Msg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/test/protobuf/msg_pb2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_laser/test/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tomcat/apache-tomcat-8.5.88.tar.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laser.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/laser.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shooter_score.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/shooter_score.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shooting-server.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/shooting-server.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shooting-ui.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Original_Files/shooting-ui.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2023-05-14_21_46____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/VNC-Server-7.1.0-Linux-x64.deb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/apache-tomcat-8.5.88.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/jdk-8u371-linux-aarch64.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2023-05-14_21_46_取消提交了变更_[变更]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684123034246</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="更新部署可能会遇到的问题">
+      <created>1684329400496</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684329400496</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
